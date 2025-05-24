@@ -6,7 +6,7 @@
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
-
+bot3.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
